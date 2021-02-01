@@ -18,7 +18,7 @@ Turtles!
 ## Example
 
 ```javascript
-initTurtles("🦐");
+initTutles("🦐");
 console.log("Shrimp");
 ```
 
